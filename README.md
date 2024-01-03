@@ -7,7 +7,8 @@
 ### 1. Ensure the zip files are downloaded as they are without changing the file name (As they were used exactly in for extracting in the codes)
 ### 2. Use OpenAI API Key For Task - 1.
 ### 3. Make sure sufficient RAM (8GB or more) is awailable to run the codes smoothly.
-### 4. If not use Google Colab Notebooks on T4 GPU for smooth running but ensure the directories and path of files arer changed
+### 4. If not use Google Colab Notebooks on T4 GPU for smooth running but ensure the directories and path of files arer changed.
+### 5. Use IPython Library To load the widgets used in Tasks 1 & 2. (Use VS Code For Better results).
 ### 5. Thats it!.
 ### Done By:
 ### A S V Dhanush
