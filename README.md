@@ -10,7 +10,7 @@
 ### 3. Make sure sufficient RAM (8GB or more) is awailable to run the codes smoothly.
 ### 4. If not use Google Colab Notebooks on T4 GPU for smooth running but ensure the directories and path of files arer changed.
 ### 5. Use IPython Library To load the widgets (As they are not properly loading in Github) used in Tasks 1 & 2. (Use VS Code For Better results).
-### 6. Make sure all the necessary libraries are downloaded using <code> pip install </code>(Windows).
+### 6. Make sure all the necessary libraries like Keras, tensorflow, matplotlib etc are downloaded using <code> pip install </code>(Windows).
 
 ## Thats it!.
 ### Done By:
