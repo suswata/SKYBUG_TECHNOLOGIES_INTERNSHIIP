@@ -1,4 +1,4 @@
-## This Is a Tasked Based Internship Done as an AI Intern at Skybug Technologies from Dec 20 To Jan 20, 2023.
+## This Is a Task Based Internship Done as an AI Intern at Skybug Technologies from Dec 20 To Jan 20, 2023.
 ## Kindly Follow the steps to make sure the code runs in your local machine
 ## Resources: 
  - Task - 5 Dataset GDrive - Link: https://drive.google.com/drive/folders/1IpVpDjQ_47Yl-TkQ9zTo6VhjUm8-aI8o?usp=sharing
